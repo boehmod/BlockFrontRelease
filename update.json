@@ -1,6 +1,7 @@
 {
   "homepage": "https://github.com/boehmod/BlockFrontRelease",
   "1.15.2": {
+    "0.0.0.2-alpha": "Minor fixes and tweaks to gameplay",
     "0.0.0.1-alpha": "Initial release of BlockFront"
   }
 }
