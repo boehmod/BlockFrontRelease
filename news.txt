@@ -1,3 +1,6 @@
-Welcome to BlockFront!
+&3Welcome to BlockFront!
 
 We're currently in &aearly alpha&f! So expect to find bugs and glitches whilst playing. Be sure to report all issues you have to our Discord so that we can fix them!
+
+For more information on our latest updates and releases, please join our Discord Server!
+<link>Discord Server<>https://discord.gg/BoehMod<>
