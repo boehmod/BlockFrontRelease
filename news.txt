@@ -1,9 +1,4 @@
-&cImportant Notice:
-BlockFront is no longer under continuous development. Please do not expect further updates unless otherwise announced.
-
-Special thank you to everyone who followed us on this incredible journey to bring this amazing passion project to life!
-
-&3Welcome to BlockFront!
+&2Welcome to BlockFront!
 
 We're currently in &aearly alpha&f! So expect to find bugs and glitches whilst playing. Be sure to report all issues you have to our Discord so that we can fix them!
 
